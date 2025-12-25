@@ -4,3 +4,8 @@ p {
 .sous-titre {
     font-size: 20px;
 }
+th, td {
+    border: 1px solid #666;
+    padding: 10px 40px;
+    text-align: center;
+}
