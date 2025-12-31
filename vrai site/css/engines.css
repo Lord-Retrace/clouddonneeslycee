@@ -1,20 +1,7 @@
 th, td {
     border: 0px solid #666;
-    padding: 20px 10px;
+    padding: 10px 40px;
     text-align: center;
-}
-
-p {
-    font-size: 22px;
-}
-
-.lien {
-    font-size: 30px;
-    color: #d95effd3;;
-}
-
-.lien1 {
-    color: #d95effd3;
 }
 
 body {
@@ -35,5 +22,16 @@ body {
             transparent 80%,
             rgba(30, 49, 160, 0.7)
         ),
-        rgba(90, 119, 248, 1);
+        rgba(90, 119, 248, 0.85);
+}
+.lienaccueil {
+    color: #d95effd3;
+}
+
+.titre {
+    font-size: 50px;
+}
+
+p{
+    font-size: 22px;
 }
